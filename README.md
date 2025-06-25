@@ -1,3 +1,4 @@
+![logo](https://github.com/ShazzedChowdhury/ShazzedChowdhury/blob/main/Banner.png)
 <h1 align="left">Hi&nbsp;👋, I'm <strong>Shazzed Chowdhury</strong></h1>
 <h3 align="left">Front‑End Developer&nbsp;| MERN Stack Enthusiast</h3>
 
