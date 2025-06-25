@@ -5,8 +5,6 @@
 
 
 # 💫 About Me:
-<br>
-<br>
 I'm a passionate Front-End Developer currently diving deep into the **MERN stack**.  <br>I'm learning and working with technologies like **React**, **JavaScript**, **Node.js**, **Express.js**, and **MongoDB** to build responsive and dynamic web applications.<br><br>🚀 Always curious and eager to grow through real-world projects.
 
 
