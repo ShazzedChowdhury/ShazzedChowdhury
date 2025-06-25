@@ -38,6 +38,4 @@ I’m learning and working with **React**, **JavaScript**, **Node.js**, **Expres
 ### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=ShazzedChowdhury&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ShazzedChowdhury&icon=2&color=0" alt="Visitor count"/>
-</p>
+
