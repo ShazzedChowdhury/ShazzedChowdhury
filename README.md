@@ -1,7 +1,7 @@
 <h1 align="left">Hi&nbsp;👋, I'm <strong>Shazzed Chowdhury</strong></h1>
 <h3 align="left">Front‑End Developer&nbsp;| MERN Stack Enthusiast</h3>
 
-<img align="right" alt="coding animaiton" width="300" src="https://github.com/kautukkundan/Awesome-Profile-README-templates" />
+<img align="right" alt="coding animaiton" width="300" src="https://github.com/kautukkundan/Awesome-Profile-README-templates" >
 
 # 💫 About Me:
 I'm a passionate Front-End Developer currently diving deep into the **MERN stack**.  <br>I'm learning and working with technologies like **React**, **JavaScript**, **Node.js**, **Express.js**, and **MongoDB** to build responsive and dynamic web applications.<br><br>🚀 Always curious and eager to grow through real-world projects.
