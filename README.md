@@ -27,9 +27,6 @@ I'm a passionate Front-End Developer currently diving deep into the **MERN stack
 # Contact Me :
 
 <p>
- </br>
-
-
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:ashutosh.saxena.2001@gmail.com">
