@@ -2,12 +2,11 @@
 <h3 align="left">Front‑End Developer&nbsp;| MERN Stack Enthusiast</h3>
 
 # 💫 About Me:
-<div align="left">
+<div align="left" height="400">
     <img align="right" alt="coding animaiton" width="300" height="auto" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
      I'm a passionate Front-End Developer currently diving deep into the **MERN stack**.  <br>I'm learning and working with technologies like **React**, **JavaScript**, **Node.js**, **Express.js**, and       **MongoDB** to build responsive and dynamic web applications.<br><br>🚀 Always curious and eager to grow through real-world projects.
 
 </div>
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shazzed7656@gmail.com) 
